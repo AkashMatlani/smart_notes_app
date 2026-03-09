@@ -23,12 +23,13 @@ Proper state management with Riverpod
 
 📂 Folder Structure
 
+```text
 lib/
 ├── core/
 │   ├── constants/
-│   │   └── app_strings.dart       # App-wide constants
+│   │   └── app_strings.dart
 │   └── services/
-│       └── ai_service.dart        # AI summary generator
+│       └── ai_service.dart
 ├── features/
 │   └── notes/
 │       ├── data/
