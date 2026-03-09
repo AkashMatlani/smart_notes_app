@@ -22,6 +22,7 @@ AI-powered summary generation
 Proper state management with Riverpod
 
 📂 Folder Structure
+
 lib/
 ├── core/
 │   ├── constants/
@@ -46,6 +47,8 @@ lib/
 │           └── widgets/
 │               └── note_tile.dart
 └── main.dart
+
+
 ✅ Explanation
 
 core – Shared constants, services, and utilities
